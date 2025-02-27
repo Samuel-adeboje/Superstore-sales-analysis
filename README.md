@@ -19,5 +19,6 @@ This project analyzes sales data from a Superstore to identify trends, profitabi
 - Microsoft Excel (Pivot Tables, Charts, Data Cleaning)  
 - Data Visualization  
 
-📄 **Read the full report:** 
+📄 **Read the full report:** https://github.com/Samuel-adeboje/Superstore-sales-analysis/blob/main/Superstore%20Sales%20Analysis%20Report.pdf
+
 🔗 **Connect with me on LinkedIn:** https://www.linkedin.com/in/samuel-adeboje-368320330/ 
